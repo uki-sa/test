@@ -5,46 +5,43 @@ public class Test {
 	public static void main(String[]args){
 
 	Person taro=new Person();
-	taro.name="R“c‘¾˜Y";
+	taro.name="å±±ç”°å¤ªéƒ";
 	taro.age=20;
 	taro.phoneNumber="000-0000-0000";
-	taro.address="“Œ‹";
+	taro.address="æ±äº¬";
 
 
 	Person jiro=new Person();
-	jiro.name="–Ø‘ºŸ˜Y";
+	jiro.name="æœ¨æ‘æ¬¡éƒ";
 	jiro.age=18;
 	jiro.phoneNumber="000-0000-0000";
-	jiro.address="“Œ‹";
+	jiro.address="ï¿½ï¿½ï¿½ï¿½";
 
 	Person hanako=new Person();
-	hanako.name="—é–Ø‰Ôq";
+	hanako.name="éˆ´æœ¨èŠ±å­";
 	hanako.age=16;
 	hanako.phoneNumber="000-0000-0000";
-	hanako.address="“Œ‹";
+	hanako.address="ï¿½ï¿½ï¿½ï¿½";
 
 	Person yuki=new Person();
-	yuki.name="²“¡—D÷";
+	yuki.name="ä½è—¤å„ªæ¨¹";
 	yuki.age=27;
 	yuki.phoneNumber="000-0000-0000";
-	yuki.address="“Œ‹";
+	yuki.address="ï¿½ï¿½ï¿½ï¿½";
 
 
 	Person aiko=new Person();
-	aiko.talk();
-	aiko.walk();
-	aiko.run();
+	aiko.name="aiko";
+
 
 	Person asimo=new Person();
-	asimo.talk();
-	asimo.walk();
-	asimo.run();
+	asimo.name="asimo";
+
+
 
 
 	Person pepper=new Person();
-	pepper.talk();
-	pepper.walk();
-	pepper.run();
+	pepper.name="pepper";
 
 
 
@@ -81,6 +78,17 @@ public class Test {
 	yuki.walk();
 	yuki.run();
 
+	aiko.talk();
+	aiko.walk();
+	aiko.run();
+
+	asimo.talk();
+	asimo.walk();
+	asimo.run();
+
+	pepper.talk();
+	pepper.walk();
+	pepper.run();
 
 
 	}

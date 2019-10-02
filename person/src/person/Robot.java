@@ -5,15 +5,15 @@ public class Robot {
 	public String name=null;
 
 	public void talk(){
-		System.out.println(this.name+"‚ª˜b‚·");
+		System.out.println(this.name+"ãŒè©±ã™");
 	}
 
 	public void walk(){
-		System.out.println(this.name+"‚ª•à‚­");
+		System.out.println(this.name+"ãŒæ­©ã");
 	}
 
 	public void run(){
-		System.out.println(this.name+"‚ª‘–‚é");
+		System.out.println(this.name+"èµ°ã‚‹");
 	}
 
 
