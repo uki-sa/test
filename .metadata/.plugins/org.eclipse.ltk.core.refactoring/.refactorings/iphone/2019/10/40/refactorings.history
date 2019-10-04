@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="&apos;iphone.Android.main(...)&apos; のローカル変数の名前を &apos;Android&apos; から &apos;android&apos; に変更します&#x0D;&#x0A;- 元のプロジェクト: &apos;iphone&apos;&#x0D;&#x0A;- オリジナル要素: &apos;iphone.Android.main(String[]).Android&apos;&#x0D;&#x0A;- 名前変更済み要素: &apos;Android&apos;&#x0D;&#x0A;- リファクタリングされた要素の参照を更新" description="ローカル変数名 &apos;Android&apos; の変更" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;iphone{Android.java[Android~main~\[QString;@Android!91!127!102!108!QSmartPhone;!0!false" name="android" references="true" stamp="1570188439554" version="1.0"/>
+</session>
