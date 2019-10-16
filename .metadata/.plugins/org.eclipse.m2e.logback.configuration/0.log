@@ -19,3 +19,5 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 	at org.eclipse.aether.internal.impl.DefaultArtifactResolver.resolve(DefaultArtifactResolver.java:421) ~[na:na]
 	... 8 common frames omitted
 2019-10-16 19:23:13,000 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
+2019-10-16 20:47:33,650 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2019-10-16 20:54:09,771 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
