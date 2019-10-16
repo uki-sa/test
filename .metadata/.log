@@ -1,0 +1,2053 @@
+!SESSION 2019-10-16 19:18:38.166 -----------------------------------------------
+eclipse.buildId=4.5.2.M20160212-1500
+java.version=1.8.0_74
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ja_JP
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Users\testuser\Desktop\workspace\workspace-sato\test\.metadata\.bak_6.log
+Created Time: 2019-10-16 19:42:34.656
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.656
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TreeModelEvent [in TreeModelEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.656
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.660
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface MenuDragMouseListener [in MenuDragMouseListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.660
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.664
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface UndoableEditListener [in UndoableEditListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.664
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.668
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UndoableEditEvent [in UndoableEditEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.668
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.672
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface ElementChange [in DocumentEvent$ElementChange.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.672
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.676
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EventType [in DocumentEvent$EventType.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.676
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.679
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface DocumentEvent [in DocumentEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.679
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.683
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TableColumnModelEvent [in TableColumnModelEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.683
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.686
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class SwingPropertyChangeSupport [in SwingPropertyChangeSupport.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.686
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.690
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface TreeSelectionListener [in TreeSelectionListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.690
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.693
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface TreeModelListener [in TreeModelListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.693
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.697
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TableModelEvent [in TableModelEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.697
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.700
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface TreeExpansionListener [in TreeExpansionListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.700
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.704
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface RowSorterListener [in RowSorterListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.704
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.707
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface CellEditorListener [in CellEditorListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.707
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.711
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface TableColumnModelListener [in TableColumnModelListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.711
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.714
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface TableModelListener [in TableModelListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.715
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.718
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ListSelectionEvent [in ListSelectionEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.718
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.722
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface ListSelectionListener [in ListSelectionListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.722
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.726
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface MenuKeyListener [in MenuKeyListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.726
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.729
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface PopupMenuListener [in PopupMenuListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.729
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.733
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface ListDataListener [in ListDataListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.733
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.736
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ChangeEvent [in ChangeEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.737
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.740
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface AncestorListener [in AncestorListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.740
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.747
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface MouseInputListener [in MouseInputListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.747
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.750
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class MouseInputAdapter [in MouseInputAdapter.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.750
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.753
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface DocumentListener [in DocumentListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.753
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.757
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class CaretEvent [in CaretEvent.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.757
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.760
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface ChangeListener [in ChangeListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.760
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.764
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface MenuListener [in MenuListener.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.764
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.767
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EventListenerList [in EventListenerList.class [in javax.swing.event [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.767
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.771
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class BuddhistCalendar [in BuddhistCalendar.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.771
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.774
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in PreHashedMap$1$1.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.774
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.778
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in PreHashedMap$1.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.778
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.781
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in PreHashedMap$2$1$1.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.781
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.785
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in PreHashedMap$2$1.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.785
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.788
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in PreHashedMap$2.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.788
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.792
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ResourceBundleEnumeration [in ResourceBundleEnumeration.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.792
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.795
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class CoreResourceBundleControl [in CoreResourceBundleControl.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.796
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.799
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class PreHashedMap [in PreHashedMap.class [in sun.util [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.799
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.803
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class APOptions [in APOptions.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.803
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.806
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class APRep [in APRep.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.806
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.809
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class APReq [in APReq.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.810
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.813
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ASRep [in ASRep.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.813
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.816
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ASReq [in ASReq.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.817
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.820
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class AuthContext [in AuthContext.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.820
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.823
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class Authenticator [in Authenticator.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.823
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.827
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class AuthorizationData [in AuthorizationData.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.827
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.830
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class AuthorizationDataEntry [in AuthorizationDataEntry.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.830
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.834
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class CredentialsUtil [in CredentialsUtil.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.834
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.837
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ETypeInfo [in ETypeInfo.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.837
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.840
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ETypeInfo2 [in ETypeInfo2.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.841
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.844
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncAPRepPart [in EncAPRepPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.844
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.848
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncASRepPart [in EncASRepPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.848
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.851
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncKDCRepPart [in EncKDCRepPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.851
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.854
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncKrbCredPart [in EncKrbCredPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.854
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.858
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncKrbPrivPart [in EncKrbPrivPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.858
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.861
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncTGSRepPart [in EncTGSRepPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.861
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.865
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class EncTicketPart [in EncTicketPart.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.865
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.868
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class HostAddress [in HostAddress.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.868
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.872
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class HostAddresses [in HostAddresses.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.872
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.875
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KDCOptions [in KDCOptions.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.875
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.879
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KDCRep [in KDCRep.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.879
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.882
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KDCReq [in KDCReq.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.882
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.886
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KDCReqBody [in KDCReqBody.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.886
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.889
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KRBCred [in KRBCred.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.889
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.894
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KRBError [in KRBError.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.894
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.898
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KRBPriv [in KRBPriv.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.898
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.901
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KRBSafe [in KRBSafe.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.901
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.905
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KRBSafeBody [in KRBSafeBody.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.905
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.909
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KdcErrException [in KdcErrException.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.909
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.913
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KerberosTime [in KerberosTime.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.913
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.917
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class Krb5 [in Krb5.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.917
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.921
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KrbApErrException [in KrbApErrException.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.921
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.924
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KrbCredInfo [in KrbCredInfo.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.924
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.928
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class KrbErrException [in KrbErrException.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.928
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.932
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class LastReq [in LastReq.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.932
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.935
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class LastReqEntry [in LastReqEntry.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.935
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.939
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class LocalSeqNumber [in LocalSeqNumber.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.939
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.942
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class LoginOptions [in LoginOptions.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.943
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.946
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class MethodData [in MethodData.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.946
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.949
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NetClient [in NetClient.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.950
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.953
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class SaltAndParams [in PAData$SaltAndParams.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.953
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.957
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class PAData [in PAData.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.957
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.961
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class PAEncTSEnc [in PAEncTSEnc.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.961
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.964
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class PAForUserEnc [in PAForUserEnc.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.964
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.968
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in ReplayCache$1.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.968
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.971
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class ReplayCache [in ReplayCache.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.971
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.975
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface SeqNumber [in SeqNumber.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.975
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.978
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TCPClient [in TCPClient.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.978
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.982
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TGSRep [in TGSRep.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.982
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.985
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TGSReq [in TGSReq.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.985
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.989
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class Ticket [in Ticket.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.989
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:34.994
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TicketFlags [in TicketFlags.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:34.994
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.000
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class TransitedEncoding [in TransitedEncoding.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.000
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.003
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UDPClient [in UDPClient.class [in sun.security.krb5.internal [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.003
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.007
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class LdapPrincipal [in LdapPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.007
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.010
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTDomainPrincipal [in NTDomainPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.010
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.014
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTNumericCredential [in NTNumericCredential.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.014
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.017
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTSid [in NTSid.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.017
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.022
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTSidDomainPrincipal [in NTSidDomainPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.022
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.025
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTSidGroupPrincipal [in NTSidGroupPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.025
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.030
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTSidPrimaryGroupPrincipal [in NTSidPrimaryGroupPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.030
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.033
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTSidUserPrincipal [in NTSidUserPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.033
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.037
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class NTUserPrincipal [in NTUserPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.037
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.041
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class PolicyFile [in PolicyFile.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.041
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.044
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface PrincipalComparator [in PrincipalComparator.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.044
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.048
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in SolarisNumericGroupPrincipal$1.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.048
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.051
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class SolarisNumericGroupPrincipal [in SolarisNumericGroupPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.051
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.055
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in SolarisNumericUserPrincipal$1.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.055
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.058
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class SolarisNumericUserPrincipal [in SolarisNumericUserPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.058
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.062
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in SolarisPrincipal$1.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.062
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.065
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class SolarisPrincipal [in SolarisPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.066
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.069
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UnixNumericGroupPrincipal [in UnixNumericGroupPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.069
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.073
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UnixNumericUserPrincipal [in UnixNumericUserPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.073
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.076
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UnixPrincipal [in UnixPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.076
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.080
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UserPrincipal [in UserPrincipal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.080
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.083
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in X500Principal$1.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.083
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.087
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class X500Principal [in X500Principal.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.087
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.090
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface package-info [in package-info.class [in com.sun.security.auth [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.090
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.094
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface IORInfoExt [in IORInfoExt.class [in com.sun.corba.se.spi.legacy.interceptor [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.094
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.097
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface ORBInitInfoExt [in ORBInitInfoExt.class [in com.sun.corba.se.spi.legacy.interceptor [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.098
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.101
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘interface RequestInfoExt [in RequestInfoExt.class [in com.sun.corba.se.spi.legacy.interceptor [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.101
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.104
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class UnknownType [in UnknownType.class [in com.sun.corba.se.spi.legacy.interceptor [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.105
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.108
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class <anonymous> [in GetORBPropertiesFileAction$1.class [in javax.rmi [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.108
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.112
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class GetORBPropertiesFileAction [in GetORBPropertiesFileAction.class [in javax.rmi [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.112
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.recommenders.types.rcp 4 2 2019-10-16 19:42:35.115
+!MESSAGE An error occurred while accessing the type hierarchy of type ‘class PortableRemoteObject [in PortableRemoteObject.class [in javax.rmi [in C:\pleiades\java\8\jre\lib\rt.jar]]]’.
+!STACK 1
+Java Model Exception: Java Model Status [  は存在しません]
+	at org.eclipse.jdt.internal.core.JavaModelOperation.runOperation(JavaModelOperation.java:785)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:826)
+	at org.eclipse.jdt.internal.core.BinaryType.newSupertypeHierarchy(BinaryType.java:778)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.indexType(ProjectTypesIndex.java:409)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuildRoot(ProjectTypesIndex.java:358)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.rebuild(ProjectTypesIndex.java:345)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.doRun(ProjectTypesIndex.java:321)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex$2.run(ProjectTypesIndex.java:312)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2019-10-16 19:42:35.115
+!MESSAGE   は存在しません
+
+!ENTRY org.eclipse.jface.text 2 0 2019-10-16 19:42:43.545
+!MESSAGE 
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.extractJavadoc(ProposalInfo.java:90)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.computeInfo(ProposalInfo.java:75)
+	at org.eclipse.jdt.internal.ui.text.java.ProposalInfo.getInfo(ProposalInfo.java:60)
+	at org.eclipse.jdt.internal.ui.text.java.AbstractJavaCompletionProposal.getAdditionalProposalInfo(AbstractJavaCompletionProposal.java:582)
+	at org.eclipse.jface.text.contentassist.AdditionalInfoController$3.run(AdditionalInfoController.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
