@@ -92,3 +92,11 @@
 0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:22:42 +0900] "GET /HelloServlet/HelloServlet HTTP/1.1" 200 59
 0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:22:46 +0900] "GET /HelloServlet/wlcome.jsp HTTP/1.1" 404 1065
 0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:23:05 +0900] "GET /HelloServlet/WelcomeServlet HTTP/1.1" 200 73
+127.0.0.1 - - [18/Oct/2019:21:24:56 +0900] "GET / HTTP/1.1" 404 1019
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:24:56 +0900] "GET /HelloServlet/ HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:24:58 +0900] "GET /HelloServlet/wlcome.jsp HTTP/1.1" 404 1065
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:25:19 +0900] "GET /HelloServlet/HelloServlet/HelloServlet HTTP/1.1" 200 59
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:27:51 +0900] "GET /HelloServlet/ HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:27:53 +0900] "GET /HelloServlet/wlcome.jsp HTTP/1.1" 404 1065
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:31:18 +0900] "GET /HelloServlet/ HTTP/1.1" 200 421
+0:0:0:0:0:0:0:1 - - [18/Oct/2019:21:31:20 +0900] "GET /HelloServlet/wlcome.jsp HTTP/1.1" 404 1065
