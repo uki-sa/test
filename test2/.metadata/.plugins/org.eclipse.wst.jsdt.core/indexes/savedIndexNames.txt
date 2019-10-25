@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/Users/satoyuki/Desktop/workspace/workspace-sato/test2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1854681516.index
